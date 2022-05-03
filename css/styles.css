@@ -8,7 +8,7 @@ body{
 }
 
 h1, h2 {
-    color: #e071c3;
+    color: #38172F;  
 }
 
 #header-nav {
@@ -26,6 +26,7 @@ h1, h2 {
 }
 
 .navbar-brand h1 {
+    color: #e071c3;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -60,10 +61,6 @@ h1, h2 {
 #nav-list li:hover {
     background: #38172F;
     color: #e071c3; 
-}
-
-.section-one h2 {
-    color: #38172F;    
 }
 
 .section-one {
