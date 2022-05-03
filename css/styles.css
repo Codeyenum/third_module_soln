@@ -18,6 +18,7 @@ h1, h2 {
 }
 
 .navbar-brand {
+    margin-top: -10px;
     margin-bottom: 2.5rem;
 }
 
