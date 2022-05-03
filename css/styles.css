@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+body{
+    font-size: 16px;
+    font-family: 'Orelega One', cursive;
+    background-color: #38172F;
+    color: black;
+}
+
+h2 {
+    color: #af20df;
+}
+
+#header-nav {
+    background-color: #af20df;
+    border: 0;
+    border-radius: 0;
+}
+
+.navbar-brand {
+    margin-bottom: 2.5rem;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand h1 {
+    color: #38172F;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar-header {
+    margin-top: 1.25em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #38172F;
+}
+
+.navbar-header button.navbar-toggle:hover, .navbar-header .icon-bar {
+    border: 1px solid #e48fdd;
+    background: #38172F;
+}
+
+#nav-list {
+    margin: 0;
+    text-align: center;
+    color: #38172F; 
+}
+
+#nav-list a {
+    color: #38172F; 
+}
+
+#nav-list a:hover {
+    color: #e071c3; 
+}
+
+#nav-list li:hover {
+    background: #38172F;
+    color: #e071c3; 
+}
+
+.section-one h2{
+    color: #38172F;
+}
+.section-one {
+    margin: 1.5em;
+    padding: 0.3em 1em 1em;
+    background-color: #af20df;
+    color: #38172F;
+}
+
+@media  (min-width: 768px) {
+    #collapsable-nav ul{
+        display: none;
+    }
+    
+}
