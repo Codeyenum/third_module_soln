@@ -3,16 +3,16 @@
 body{
     font-size: 16px;
     font-family: 'Orelega One', cursive;
-    background-color: #38172F;
+    background-color: #ecf0f3;;
     color: black;
 }
 
 h2 {
-    color: #af20df;
+    color: #e071c3;
 }
 
 #header-nav {
-    background-color: #af20df;
+    background-color: #9dafe7;
     border: 0;
     border-radius: 0;
 }
@@ -63,13 +63,10 @@ h2 {
     color: #e071c3; 
 }
 
-.section-one h2{
-    color: #38172F;
-}
 .section-one {
     margin: 1.5em;
     padding: 0.3em 1em 1em;
-    background-color: #af20df;
+    background-color: #9dafe7;
     color: #38172F;
 }
 
